@@ -1,0 +1,13 @@
+
+.app-sidebar {
+  width: 220px;
+  background: #f4f4f4;
+  padding: 1rem;
+  border-right: 1px solid #ddd;
+}
+
+.sidebar-list {
+  list-style-type: none;
+  padding: 0;
+  line-height: 2rem;
+}
